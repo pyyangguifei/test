@@ -1,2 +1,4 @@
 a=123
-print a
+b=456
+c=a+b
+print c
